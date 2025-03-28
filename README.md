@@ -2,6 +2,8 @@
 
 Efficient implementation of the Radon Transform using the Fast Fourier Transform (FFT) and the Fourier Slice Theorem in Python, with a Tkinter-based GUI for interactive usage.
 
+![Radon Transform Example](img1.daumcdn.png)
+
 ## Overview
 
 The Radon Transform is an integral transform that computes projections of an image matrix along specified angular directions. This implementation uses the Fourier Slice Theorem to perform the transform efficiently:
